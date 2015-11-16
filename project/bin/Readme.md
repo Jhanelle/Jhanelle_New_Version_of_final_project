@@ -1,1 +1,0 @@
-In this file is a summary of the codes, for this project, written using the notebook. 
